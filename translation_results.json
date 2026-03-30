@@ -1,0 +1,402 @@
+{
+  "summary": {
+    "total_sentences": 31,
+    "total_english_tokens": 340,
+    "total_spanish_tokens": 532,
+    "overall_ratio": 1.565,
+    "overall_pct_change": 56.47
+  },
+  "batch_stats": [
+    {
+      "batch": 1,
+      "sentence_count": 10,
+      "english_tokens_total": 137,
+      "spanish_tokens_total": 165,
+      "token_change": 28,
+      "ratio": 1.204,
+      "pct_change": 20.44
+    },
+    {
+      "batch": 2,
+      "sentence_count": 10,
+      "english_tokens_total": 96,
+      "spanish_tokens_total": 129,
+      "token_change": 33,
+      "ratio": 1.344,
+      "pct_change": 34.38
+    },
+    {
+      "batch": 3,
+      "sentence_count": 10,
+      "english_tokens_total": 92,
+      "spanish_tokens_total": 122,
+      "token_change": 30,
+      "ratio": 1.326,
+      "pct_change": 32.61
+    },
+    {
+      "batch": 4,
+      "sentence_count": 5,
+      "english_tokens_total": 93,
+      "spanish_tokens_total": 116,
+      "token_change": 23,
+      "ratio": 1.247,
+      "pct_change": 24.73
+    }
+  ],
+  "complexity_analysis": {
+    "simple": {
+      "count": 22,
+      "english_tokens": 202,
+      "spanish_tokens": 262
+    },
+    "complex": {
+      "count": 9,
+      "english_tokens": 138,
+      "spanish_tokens": 270
+    }
+  },
+  "per_sentence_results": [
+    {
+      "sentence_num": 1,
+      "batch": 1,
+      "english_text": "What is (are) A guide to clinical trials for cancer ?",
+      "spanish_text": "\u00bfQu\u00e9 es una gu\u00eda para los ensayos cl\u00ednicos de c\u00e1ncer?",
+      "complexity": "complex",
+      "english_tokens": 13,
+      "spanish_tokens": 13,
+      "token_change": 0,
+      "pct_change": 0.0
+    },
+    {
+      "sentence_num": 2,
+      "batch": 1,
+      "english_text": "what research (or clinical trials) is being done for A guide to clinical trials for cancer ?",
+      "spanish_text": "\u00bfQu\u00e9 investigaci\u00f3n (o ensayos cl\u00ednicos) se est\u00e1 realizando para una gu\u00eda de ensayos cl\u00ednicos para el c\u00e1ncer?",
+      "complexity": "complex",
+      "english_tokens": 19,
+      "spanish_tokens": 24,
+      "token_change": 5,
+      "pct_change": 26.32
+    },
+    {
+      "sentence_num": 3,
+      "batch": 1,
+      "english_text": "what research (or clinical trials) is being done for A guide to clinical trials for cancer ?",
+      "spanish_text": "\u00bfQu\u00e9 investigaci\u00f3n (o ensayos cl\u00ednicos) se est\u00e1 realizando para una gu\u00eda de ensayos cl\u00ednicos para el c\u00e1ncer?",
+      "complexity": "complex",
+      "english_tokens": 19,
+      "spanish_tokens": 24,
+      "token_change": 5,
+      "pct_change": 26.32
+    },
+    {
+      "sentence_num": 4,
+      "batch": 1,
+      "english_text": "what research (or clinical trials) is being done for A guide to clinical trials for cancer ?",
+      "spanish_text": "\u00bfQu\u00e9 investigaci\u00f3n (o ensayos cl\u00ednicos) se est\u00e1 realizando para una gu\u00eda de ensayos cl\u00ednicos para el c\u00e1ncer?",
+      "complexity": "complex",
+      "english_tokens": 19,
+      "spanish_tokens": 24,
+      "token_change": 5,
+      "pct_change": 26.32
+    },
+    {
+      "sentence_num": 5,
+      "batch": 1,
+      "english_text": "what research (or clinical trials) is being done for A guide to clinical trials for cancer ?",
+      "spanish_text": "\u00bfQu\u00e9 investigaci\u00f3n (o ensayos cl\u00ednicos) se est\u00e1 realizando para una gu\u00eda de ensayos cl\u00ednicos para el c\u00e1ncer?",
+      "complexity": "complex",
+      "english_tokens": 19,
+      "spanish_tokens": 24,
+      "token_change": 5,
+      "pct_change": 26.32
+    },
+    {
+      "sentence_num": 6,
+      "batch": 1,
+      "english_text": "Do you have information about A guide to herbal remedies",
+      "spanish_text": "\u00bfTienes informaci\u00f3n sobre una gu\u00eda de remedios a base de hierbas?",
+      "complexity": "complex",
+      "english_tokens": 10,
+      "spanish_tokens": 16,
+      "token_change": 6,
+      "pct_change": 60.0
+    },
+    {
+      "sentence_num": 7,
+      "batch": 1,
+      "english_text": "What is (are) A1C test ?",
+      "spanish_text": "\u00bfQu\u00e9 es la prueba de A1C?",
+      "complexity": "simple",
+      "english_tokens": 10,
+      "spanish_tokens": 9,
+      "token_change": -1,
+      "pct_change": -10.0
+    },
+    {
+      "sentence_num": 8,
+      "batch": 1,
+      "english_text": "Who is at risk for A1C test? ?",
+      "spanish_text": "\u00bfQui\u00e9n est\u00e1 en riesgo para la prueba de A1C?",
+      "complexity": "simple",
+      "english_tokens": 11,
+      "spanish_tokens": 13,
+      "token_change": 2,
+      "pct_change": 18.18
+    },
+    {
+      "sentence_num": 9,
+      "batch": 1,
+      "english_text": "What is (are) Aarskog syndrome ?",
+      "spanish_text": "\u00bfQu\u00e9 es el s\u00edndrome de Aarskog?",
+      "complexity": "simple",
+      "english_tokens": 10,
+      "spanish_tokens": 9,
+      "token_change": -1,
+      "pct_change": -10.0
+    },
+    {
+      "sentence_num": 10,
+      "batch": 1,
+      "english_text": "What causes Aarskog syndrome ?",
+      "spanish_text": "\u00bfQu\u00e9 causa el s\u00edndrome de Aarskog?",
+      "complexity": "simple",
+      "english_tokens": 7,
+      "spanish_tokens": 9,
+      "token_change": 2,
+      "pct_change": 28.57
+    },
+    {
+      "sentence_num": 11,
+      "batch": 2,
+      "english_text": "What are the symptoms of Aarskog syndrome ?",
+      "spanish_text": "\u00bfCu\u00e1les son los s\u00edntomas del s\u00edndrome de Aarskog?",
+      "complexity": "simple",
+      "english_tokens": 10,
+      "spanish_tokens": 13,
+      "token_change": 3,
+      "pct_change": 30.0
+    },
+    {
+      "sentence_num": 12,
+      "batch": 2,
+      "english_text": "How to diagnose Aarskog syndrome ?",
+      "spanish_text": "\u00bfC\u00f3mo se diagnostica el s\u00edndrome de Aarskog?",
+      "complexity": "simple",
+      "english_tokens": 8,
+      "spanish_tokens": 12,
+      "token_change": 4,
+      "pct_change": 50.0
+    },
+    {
+      "sentence_num": 13,
+      "batch": 2,
+      "english_text": "What are the treatments for Aarskog syndrome ?",
+      "spanish_text": "\u00bfCu\u00e1les son los tratamientos para el s\u00edndrome de Aarskog?",
+      "complexity": "simple",
+      "english_tokens": 10,
+      "spanish_tokens": 14,
+      "token_change": 4,
+      "pct_change": 40.0
+    },
+    {
+      "sentence_num": 14,
+      "batch": 2,
+      "english_text": "Where to find support for people with Aarskog syndrome ?",
+      "spanish_text": "\u00bfD\u00f3nde encontrar apoyo para personas con el s\u00edndrome de Aarskog?",
+      "complexity": "complex",
+      "english_tokens": 12,
+      "spanish_tokens": 15,
+      "token_change": 3,
+      "pct_change": 25.0
+    },
+    {
+      "sentence_num": 15,
+      "batch": 2,
+      "english_text": "What is the outlook for Aarskog syndrome ?",
+      "spanish_text": "\u00bfCu\u00e1l es el pron\u00f3stico para el s\u00edndrome de Aarskog?",
+      "complexity": "simple",
+      "english_tokens": 10,
+      "spanish_tokens": 15,
+      "token_change": 5,
+      "pct_change": 50.0
+    },
+    {
+      "sentence_num": 16,
+      "batch": 2,
+      "english_text": "What are the complications of Aarskog syndrome ?",
+      "spanish_text": "\u00bfCu\u00e1les son las complicaciones del s\u00edndrome de Aarskog?",
+      "complexity": "simple",
+      "english_tokens": 10,
+      "spanish_tokens": 14,
+      "token_change": 4,
+      "pct_change": 40.0
+    },
+    {
+      "sentence_num": 17,
+      "batch": 2,
+      "english_text": "Do I need to see a doctor for Aarskog syndrome ?",
+      "spanish_text": "\u00bfNecesito ver a un m\u00e9dico por el s\u00edndrome de Aarskog?",
+      "complexity": "simple",
+      "english_tokens": 13,
+      "spanish_tokens": 16,
+      "token_change": 3,
+      "pct_change": 23.08
+    },
+    {
+      "sentence_num": 18,
+      "batch": 2,
+      "english_text": "How to prevent Aarskog syndrome ?",
+      "spanish_text": "\u00bfC\u00f3mo prevenir el s\u00edndrome de Aarskog?",
+      "complexity": "simple",
+      "english_tokens": 8,
+      "spanish_tokens": 10,
+      "token_change": 2,
+      "pct_change": 25.0
+    },
+    {
+      "sentence_num": 19,
+      "batch": 2,
+      "english_text": "What is (are) Aase syndrome ?",
+      "spanish_text": "\u00bfQu\u00e9 es (son) el s\u00edndrome de Aase?",
+      "complexity": "simple",
+      "english_tokens": 9,
+      "spanish_tokens": 12,
+      "token_change": 3,
+      "pct_change": 33.33
+    },
+    {
+      "sentence_num": 20,
+      "batch": 2,
+      "english_text": "What causes Aase syndrome ?",
+      "spanish_text": "\u00bfQu\u00e9 causa el s\u00edndrome de Aase?",
+      "complexity": "simple",
+      "english_tokens": 6,
+      "spanish_tokens": 8,
+      "token_change": 2,
+      "pct_change": 33.33
+    },
+    {
+      "sentence_num": 21,
+      "batch": 3,
+      "english_text": "What are the symptoms of Aase syndrome ?",
+      "spanish_text": "\u00bfCu\u00e1les son los s\u00edntomas del s\u00edndrome de Aase?",
+      "complexity": "simple",
+      "english_tokens": 9,
+      "spanish_tokens": 12,
+      "token_change": 3,
+      "pct_change": 33.33
+    },
+    {
+      "sentence_num": 22,
+      "batch": 3,
+      "english_text": "How to diagnose Aase syndrome ?",
+      "spanish_text": "\u00bfC\u00f3mo se diagnostica el s\u00edndrome de Aase?",
+      "complexity": "simple",
+      "english_tokens": 7,
+      "spanish_tokens": 11,
+      "token_change": 4,
+      "pct_change": 57.14
+    },
+    {
+      "sentence_num": 23,
+      "batch": 3,
+      "english_text": "What are the treatments for Aase syndrome ?",
+      "spanish_text": "\u00bfCu\u00e1les son los tratamientos para el s\u00edndrome de Aase?",
+      "complexity": "simple",
+      "english_tokens": 9,
+      "spanish_tokens": 13,
+      "token_change": 4,
+      "pct_change": 44.44
+    },
+    {
+      "sentence_num": 24,
+      "batch": 3,
+      "english_text": "What is the outlook for Aase syndrome ?",
+      "spanish_text": "\u00bfCu\u00e1l es el pron\u00f3stico para el s\u00edndrome de Aase?",
+      "complexity": "simple",
+      "english_tokens": 9,
+      "spanish_tokens": 14,
+      "token_change": 5,
+      "pct_change": 55.56
+    },
+    {
+      "sentence_num": 25,
+      "batch": 3,
+      "english_text": "What are the complications of Aase syndrome ?",
+      "spanish_text": "\u00bfCu\u00e1les son las complicaciones del s\u00edndrome de Aase?",
+      "complexity": "simple",
+      "english_tokens": 9,
+      "spanish_tokens": 13,
+      "token_change": 4,
+      "pct_change": 44.44
+    },
+    {
+      "sentence_num": 26,
+      "batch": 3,
+      "english_text": "How to prevent Aase syndrome ?",
+      "spanish_text": "\u00bfC\u00f3mo prevenir el s\u00edndrome de Aase?",
+      "complexity": "simple",
+      "english_tokens": 7,
+      "spanish_tokens": 9,
+      "token_change": 2,
+      "pct_change": 28.57
+    },
+    {
+      "sentence_num": 27,
+      "batch": 3,
+      "english_text": "Do you have information about Abdomen - swollen",
+      "spanish_text": "\u00bfTienes informaci\u00f3n sobre abdomen hinchado?",
+      "complexity": "simple",
+      "english_tokens": 9,
+      "spanish_tokens": 10,
+      "token_change": 1,
+      "pct_change": 11.11
+    },
+    {
+      "sentence_num": 28,
+      "batch": 3,
+      "english_text": "What is (are) Abdominal aortic aneurysm ?",
+      "spanish_text": "\u00bfQu\u00e9 es (son) aneurisma de la aorta abdominal?",
+      "complexity": "simple",
+      "english_tokens": 12,
+      "spanish_tokens": 14,
+      "token_change": 2,
+      "pct_change": 16.67
+    },
+    {
+      "sentence_num": 29,
+      "batch": 3,
+      "english_text": "What causes Abdominal aortic aneurysm ?",
+      "spanish_text": "\u00bfQu\u00e9 causa el aneurisma de la aorta abdominal?",
+      "complexity": "simple",
+      "english_tokens": 9,
+      "spanish_tokens": 12,
+      "token_change": 3,
+      "pct_change": 33.33
+    },
+    {
+      "sentence_num": 30,
+      "batch": 3,
+      "english_text": "What are the symptoms of Abdominal aortic aneurysm ?",
+      "spanish_text": "\u00bfCu\u00e1les son los s\u00edntomas del aneurisma de la aorta abdominal?",
+      "complexity": "complex",
+      "english_tokens": 12,
+      "spanish_tokens": 14,
+      "token_change": 2,
+      "pct_change": 16.67
+    },
+    {
+      "sentence_num": 31,
+      "batch": 4,
+      "english_text": "The patient presented with acute myocardial infarction and elevated troponin levels.",
+      "spanish_text": "El paciente present\u00f3 con un infarto agudo de miocardio y niveles elevados de troponina. La resonancia magn\u00e9tica revel\u00f3 un disco intervertebral herniado en L4-L5. El panel de hematolog\u00eda indic\u00f3 anemia microc\u00edtica con hemoglobina de 7.2 g/dL. Las pruebas de funci\u00f3n renal mostraron creatinina de 2.5 mg/dL con un FGe estimado de 28. La radiograf\u00eda de t\u00f3rax demostr\u00f3 neumon\u00eda bilateral con consolidaci\u00f3n en ambos l\u00f3bulos inferiores.",
+      "complexity": "complex",
+      "english_tokens": 15,
+      "spanish_tokens": 116,
+      "token_change": 101,
+      "pct_change": 673.33
+    }
+  ]
+}
